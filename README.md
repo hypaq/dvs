@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="paper WQUNETS - datasets- v5.png" alt="dvs" width="100"/>
+  <img src="paper WQUNETS - datasets- v5.png" alt="dvs" width="1000"/>
   <br/>
   <strong>DVS - Distributed Viability Score</strong>
 </div>
