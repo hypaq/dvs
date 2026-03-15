@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="dvs.png" alt="dvs" width="100"/>
+  <img src="\hypaq\dvs.png" alt="dvs" width="100"/>
   <br/>
   <strong>DVS - Distributed Viability Score</strong>
 </div>
