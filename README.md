@@ -17,7 +17,7 @@ A dataset with benchmark quantum curcuits created for this research is published
 <div align="center">
   <img src="ieeedataport.png" alt="dvs" width="1000"/>
   <br/>
-  <strong>DVS - Distributed Viability Score</strong>
+  <strong>dataset at IEEE DataPort</strong>
 </div>
 
 Waldemir Cambiucci, "A Network-Sensitive Framework for Variational Quantum Optimization on Multi-QPU Architectures", IEEE Dataport, March 15, 2026, doi:10.21227/s9b5-qy94
