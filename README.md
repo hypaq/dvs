@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="paper WQUNETS - datasets- v5.png" alt="dvs" width="1000"/>
+  <img src="img_dsv_pillars.png" alt="dvs" width="1000"/>
   <br/>
   <strong>DVS - Distributed Viability Score</strong>
 </div>
@@ -15,7 +15,7 @@ Variational Quantum Algorithms (VQAs) are widely seen as one of the most practic
 A dataset with benchmark quantum curcuits created for this research is published at IEEE DATAPORT, as follows:
 
 <div align="center">
-  <img src="ieeedataport.png" alt="dvs" width="1000"/>
+  <img src="img_ieee_dataport.png" alt="dvs" width="1000"/>
   <br/>
   <strong>dataset at IEEE DataPort</strong>
 </div>
