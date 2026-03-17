@@ -17,30 +17,42 @@ https://ieee-dataport.org/documents/network-sensitive-framework-variational-quan
 From where we created several insights:
 
 <div align="center">
-  <img src="ddd" alt="dvs" width="1000"/>
+  <img src="boxplot_depth_by_group_20260317_004135.png" alt="dvs" width="1000"/>
   <br/>
-  <strong>dataset at IEEE DataPort</strong>
+  <strong>Boxplot Depth by Group</strong>
+</div>                                                            
+
+<div align="center">
+  <img src="heatmap_group_metrics_20260317_004135.png" alt="dvs" width="1000"/>
+  <br/>
+  <strong>Heatmap Group Metrics</strong>
 </div>
 
 <div align="center">
-  <img src="ddd" alt="dvs" width="1000"/>
+  <img src="scatter_depth_vs_qubits_20260317_004135.png" alt="dvs" width="1000"/>
   <br/>
-  <strong>dataset at IEEE DataPort</strong>
+  <strong>Scatter Depth vs qubits</strong>
 </div>
 
 <div align="center">
-  <img src="ddd" alt="dvs" width="1000"/>
+  <img src="stacked_two_qubit_gates_by_group_20260317_004135.png" alt="dvs" width="1000"/>
   <br/>
-  <strong>dataset at IEEE DataPort</strong>
-</div>
+  <strong>Stacked two qubit gates by group</strong>
+</div>  
 
 <div align="center">
-  <img src="ddd" alt="dvs" width="1000"/>
+  <img src="two_qubit_density_boxplot_20260317_004135.png" alt="dvs" width="1000"/>
   <br/>
-  <strong>dataset at IEEE DataPort</strong>
+  <strong>Two_qubit_Density_Boxplot</strong>
+</div>        
+
+<div align="center">
+  <img src="two_qubit_density_by_group_20260317_004135.png" alt="dvs" width="1000"/>
+  <br/>
+  <strong>Two qubit Density by Group</strong>
 </div>
 
-A dataset with benchmark quantum curcuits created for this research is published at IEEE DATAPORT, as follows:
+The complete dataset with all benchmark quantum curcuits used for this research is published at IEEE DATAPORT, as follows:
 
 <div align="center">
   <img src="img_ieee_dataport.png" alt="dvs" width="1000"/>
