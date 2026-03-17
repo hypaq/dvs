@@ -8,11 +8,8 @@ Variational Quantum Algorithms (VQAs) are widely seen as one of the most practic
 
 As a first step in the analysis, we consolidated the many dimesions from benchmark circuits, comparing the qubit connectivity, size, width, density, to visualize the behaivor and first impressions about different structures of QAOQ and VQE algorithms. Two first scripts to run those tasks are presented:
 
-Script: dvs 01 - reading benchmark circuits for dimensions
-https://ieee-dataport.org/documents/network-sensitive-framework-variational-quantum-optimization-multi-qpu-architectures
-
-Script: dvs 02 - drawing dimensions from benchmark circuits
-https://ieee-dataport.org/documents/network-sensitive-framework-variational-quantum-optimization-multi-qpu-architectures
+Script: dvs 01 - reading benchmark circuits for dimensions: [Scripts documentation](./dvs 01 - reading benchmark circuits for dimensions.ipynb)
+Script: dvs 02 - drawing dimensions from benchmark circuits: [Scripts documentation](./dvs 02 - drawing dimensions from benchmark circuits.ipynb)
 
 From where we created several insights:
 
