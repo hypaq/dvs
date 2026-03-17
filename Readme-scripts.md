@@ -6,7 +6,39 @@
 
 Variational Quantum Algorithms (VQAs) are widely seen as one of the most practical methods for near-term quantum computing, but their scalability remains limited by qubit availability, noise, transpilation overhead, and sampling cost. Distributed quantum computing and circuit cutting aim to extend execution across multi-QPU architectures and quantum networks. However, distribution is not inherently advantageous, as it depends on problem structure, ansatz and mixer locality, partitioning strategy, and communication overhead. This paper proposes a network-sensitive framework for Distributed VQAs (D-VQAs) that combines hypergraph partitioning, ansatz-aware and mixer-aware strategies, and a cost perspective including local execution, communication, synchronization, sampling, and reconstruction. The framework identifies viability regimes in which distribution may provide architectural advantage or be dominated by network overhead.
 
-As a first step in the analysis, we consolidated the many dimesions from benchmark circuits, comparing the qubit connectivity, size, width, density, to visualize the behaivor and first impressions about different structures of QAOQ and VQE algorithms.
+As a first step in the analysis, we consolidated the many dimesions from benchmark circuits, comparing the qubit connectivity, size, width, density, to visualize the behaivor and first impressions about different structures of QAOQ and VQE algorithms. Two first scripts to run those tasks are presented:
+
+Script: dvs 01 - reading benchmark circuits for dimensions
+https://ieee-dataport.org/documents/network-sensitive-framework-variational-quantum-optimization-multi-qpu-architectures
+
+Script: dvs 02 - drawing dimensions from benchmark circuits
+https://ieee-dataport.org/documents/network-sensitive-framework-variational-quantum-optimization-multi-qpu-architectures
+
+From where we created several insights:
+
+<div align="center">
+  <img src="ddd" alt="dvs" width="1000"/>
+  <br/>
+  <strong>dataset at IEEE DataPort</strong>
+</div>
+
+<div align="center">
+  <img src="ddd" alt="dvs" width="1000"/>
+  <br/>
+  <strong>dataset at IEEE DataPort</strong>
+</div>
+
+<div align="center">
+  <img src="ddd" alt="dvs" width="1000"/>
+  <br/>
+  <strong>dataset at IEEE DataPort</strong>
+</div>
+
+<div align="center">
+  <img src="ddd" alt="dvs" width="1000"/>
+  <br/>
+  <strong>dataset at IEEE DataPort</strong>
+</div>
 
 A dataset with benchmark quantum curcuits created for this research is published at IEEE DATAPORT, as follows:
 
