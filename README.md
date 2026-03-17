@@ -23,4 +23,4 @@ A dataset with benchmark quantum curcuits created for this research is published
 Waldemir Cambiucci, "A Network-Sensitive Framework for Variational Quantum Optimization on Multi-QPU Architectures", IEEE Dataport, March 15, 2026, doi:10.21227/s9b5-qy94
 https://ieee-dataport.org/documents/network-sensitive-framework-variational-quantum-optimization-multi-qpu-architectures
 
-To support the exploratory analysis for those benchmark circuits, we created scripts for different tasks, as follows here. 
+To support the exploratory analysis for those benchmark circuits, we created scripts for different tasks, as follows here. [Scripts documentation](./Readme-scripts.md)
